@@ -77,4 +77,4 @@ Arguments:
 - `dataset`={mixed_svhn_for_repair, mixed_cifar10_for_repair}
 - `mixed_class`={0,1,2,3,4}
 - `repair_strategy`={moda, cnnsplitter}
--`target_epoch`=[1, 200]
+- `target_epoch`=[1, 200]
