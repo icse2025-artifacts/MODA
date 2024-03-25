@@ -1,3 +1,5 @@
+> To compare to MwT, find the source code here https://github.com/icse2025-artifacts/forked_MwT
+
 # MODA: Improving DNN Modularization via Activation-Driven Training
 
 ### Experiment Setup:
